@@ -1,6 +1,6 @@
 # 🚀 **Well Scan – The Ultimate AI-Powered Health Dashboard**  
 
-![Website Screenshot 1](images/screenshot1.png) ![Website Screenshot 2](images/screenshot2.png)
+![Website Screenshot 1](Dashboard.png) ![Website Screenshot 2](Models.png)
 
 **Well Scan** is a cutting-edge AI-driven healthcare platform that offers real-time medical insights, personalized organ checkups, doctor booking, and holistic health management in one unified interface. The platform leverages advanced machine learning models and seamless web technologies to empower users with proactive healthcare solutions.  
 
