@@ -97,7 +97,7 @@ Quickly locate nearby hospitals in case of emergencies to ensure timely medical 
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/username/well-scan.git
+git clone https://github.com/abhiyank51/well-scan.git
 cd well-scan
 ```
 
